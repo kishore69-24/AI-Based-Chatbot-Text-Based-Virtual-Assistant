@@ -1,0 +1,5 @@
+hello=Hello! How can I help you?
+who are you=I am a simple chatbot built with Java.
+what is java=Java is a popular programming language.
+how are you=I'm just a program, but thanks for asking!
+hi=gg
